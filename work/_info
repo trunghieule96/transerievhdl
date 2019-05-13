@@ -1,0 +1,389 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/LE Hieu/Desktop/electronique 4/TP ASICS/TP5/source
+Edivfreq
+Z0 w1557249461
+Z1 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z6 dC:/Users/LE Hieu/Desktop/electronique 4/TP ASICS/Projet Asic
+Z7 8divfreq.vhd
+Z8 Fdivfreq.vhd
+l0
+L4
+VI[zEUFeiD:IzfLfGGZ5:e0
+!s100 b[oSEgZN;8`MCFRAGGHbI3
+Z9 OP;C;10.4a;61
+32
+Z10 !s110 1557258272
+!i10b 1
+Z11 !s108 1557258272.000000
+Z12 !s90 -reportprogress|300|divfreq.vhd|
+Z13 !s107 divfreq.vhd|
+!i113 1
+o-O0
+Z14 tExplicit 1
+Artl
+R1
+R2
+R3
+R4
+R5
+Z15 DEx4 work 7 divfreq 0 22 I[zEUFeiD:IzfLfGGZ5:e0
+l20
+L11
+VW9?<5_AbM?g2HR;`_1Cc02
+!s100 WX]dcgjkF@1kUD1OR0PdR3
+R9
+32
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+o-O0
+R14
+Abench
+R1
+R2
+R3
+R4
+R5
+Z16 DEx4 work 7 divfreq 0 22 A?W3Plh>jm:oF3d8^Ebgn0
+l20
+L11
+V6deTn:_R`=lYZ3mT1hEeK1
+!s100 4]>gO81l[R31d]VFIPBNC0
+R9
+32
+!s110 1557000995
+!i10b 1
+!s108 1557000995.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\LE Hieu\Desktop\electronique 4\TP ASICS\Projet Asic\divfreq.vhd|
+!s107 C:\Users\LE Hieu\Desktop\electronique 4\TP ASICS\Projet Asic\divfreq.vhd|
+!i113 1
+Z17 o-work work -2002 -explicit -O0
+R14
+w1557000992
+FC:\Users\LE Hieu\Desktop\electronique 4\TP ASICS\Projet Asic\divfreq.vhd
+8C:\Users\LE Hieu\Desktop\electronique 4\TP ASICS\Projet Asic\divfreq.vhd
+Einterbus
+Z18 w1556996730
+R3
+R1
+R2
+R4
+R5
+R6
+Z19 8C:/Users/LE Hieu/Desktop/electronique 4/TP ASICS/Projet Asic/interbus.vhd
+Z20 FC:/Users/LE Hieu/Desktop/electronique 4/TP ASICS/Projet Asic/interbus.vhd
+l0
+L4
+VT:2CEIJ6LhG4YS:jL06A12
+!s100 K=m=DJd5fVZ5i?CV4KWGY3
+R9
+32
+Z21 !s110 1557240570
+!i10b 1
+Z22 !s108 1557240570.000000
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/LE Hieu/Desktop/electronique 4/TP ASICS/Projet Asic/interbus.vhd|
+Z24 !s107 C:/Users/LE Hieu/Desktop/electronique 4/TP ASICS/Projet Asic/interbus.vhd|
+!i113 1
+R17
+R14
+Artl
+R3
+R1
+R2
+R4
+R5
+Z25 DEx4 work 8 interbus 0 22 T:2CEIJ6LhG4YS:jL06A12
+l20
+L15
+V9MVn=8No^fHjEAllek?X40
+!s100 _TJ4d]z<]YU3AOmI^ZOC=0
+R9
+32
+R21
+!i10b 1
+R22
+R23
+R24
+!i113 1
+R17
+R14
+Etest
+Z26 w1557258264
+R3
+R4
+R5
+R6
+Z27 8test.vhd
+Z28 Ftest.vhd
+l0
+L5
+VL5KXmMOLPR;2DziOAeNbC0
+!s100 3gN@AU^PKchcVDXXn1F<30
+R9
+32
+Z29 !s110 1557258273
+!i10b 1
+Z30 !s108 1557258273.000000
+Z31 !s90 -reportprogress|300|test.vhd|
+Z32 !s107 test.vhd|
+!i113 1
+o-O0
+R14
+Abench
+R1
+R2
+R15
+R3
+R4
+R5
+Z33 DEx4 work 4 test 0 22 L5KXmMOLPR;2DziOAeNbC0
+l22
+L8
+VoFMOnT?UQKa9g:h`]zCDD2
+!s100 SMi@YMh=oLJZ>=ZfPLcN`2
+R9
+32
+R29
+!i10b 1
+R30
+R31
+R32
+!i113 1
+o-O0
+R14
+Etestinterbus
+Z34 w1556999709
+R3
+R1
+R2
+R4
+R5
+R6
+Z35 8C:/Users/LE Hieu/Desktop/electronique 4/TP ASICS/Projet Asic/test_interbus.vhd
+Z36 FC:/Users/LE Hieu/Desktop/electronique 4/TP ASICS/Projet Asic/test_interbus.vhd
+l0
+L4
+Vk>azUM87I><IN]>PSNS6A3
+!s100 mGH=;@WMC2NBhbFO]zMUe1
+R9
+32
+R21
+!i10b 1
+R22
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/LE Hieu/Desktop/electronique 4/TP ASICS/Projet Asic/test_interbus.vhd|
+Z38 !s107 C:/Users/LE Hieu/Desktop/electronique 4/TP ASICS/Projet Asic/test_interbus.vhd|
+!i113 1
+R17
+R14
+Abench
+R25
+R3
+R1
+R2
+R4
+R5
+DEx4 work 12 testinterbus 0 22 k>azUM87I><IN]>PSNS6A3
+l27
+L7
+VMhSIiSCoc[_[@4aImjOiV1
+!s100 MH8hRZEU0P0V55RzCYeL_1
+R9
+32
+R21
+!i10b 1
+R22
+R37
+R38
+!i113 1
+R17
+R14
+Etesttransserie
+Z39 w1556806410
+R3
+R4
+R5
+R6
+Z40 8C:/Users/LE Hieu/Desktop/electronique 4/TP ASICS/Projet Asic/testserie.vhd
+Z41 FC:/Users/LE Hieu/Desktop/electronique 4/TP ASICS/Projet Asic/testserie.vhd
+l0
+L5
+VD;0E_=3eF]j0=^0IN0Pnz0
+!s100 ZDnNbR1LP;9VXlGUbBLAT1
+R9
+32
+Z42 !s110 1557240569
+!i10b 1
+Z43 !s108 1557240569.000000
+Z44 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/LE Hieu/Desktop/electronique 4/TP ASICS/Projet Asic/testserie.vhd|
+Z45 !s107 C:/Users/LE Hieu/Desktop/electronique 4/TP ASICS/Projet Asic/testserie.vhd|
+!i113 1
+R17
+R14
+Abench
+Z46 DEx4 work 10 transserie 0 22 ?KLL_e94GTLdWAH<LZSjd3
+R3
+R4
+R5
+DEx4 work 14 testtransserie 0 22 D;0E_=3eF]j0=^0IN0Pnz0
+l20
+L8
+VR5hOLYHXLTa_5Rf@aT5B:1
+!s100 UO9KdYZgW6GFYd:QiW^AY1
+R9
+32
+R42
+!i10b 1
+R43
+R44
+R45
+!i113 1
+R17
+R14
+Etestuasync
+Z47 w1557004808
+R3
+R4
+R5
+R6
+Z48 8C:/Users/LE Hieu/Desktop/electronique 4/TP ASICS/Projet Asic/test_uasync.vhd
+Z49 FC:/Users/LE Hieu/Desktop/electronique 4/TP ASICS/Projet Asic/test_uasync.vhd
+l0
+L5
+VHWmcFQna6J@ooE_?7EdUD2
+!s100 UIGM??kDgA=lJCW2ddh[h0
+R9
+32
+R21
+!i10b 1
+R22
+Z50 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/LE Hieu/Desktop/electronique 4/TP ASICS/Projet Asic/test_uasync.vhd|
+Z51 !s107 C:/Users/LE Hieu/Desktop/electronique 4/TP ASICS/Projet Asic/test_uasync.vhd|
+!i113 1
+R17
+R14
+Abench
+R1
+R2
+DEx4 work 6 uasync 0 22 NVE8D6H1>z4C00elP`;@32
+R3
+R4
+R5
+DEx4 work 10 testuasync 0 22 HWmcFQna6J@ooE_?7EdUD2
+l24
+L8
+VzL;M>PDJ?m`8llh5BHaSj0
+!s100 GMgUCN[0Uhc[kR^2=n?c_2
+R9
+32
+R21
+!i10b 1
+R22
+R50
+R51
+!i113 1
+R17
+R14
+Etransserie
+Z52 w1557007074
+R3
+R4
+R5
+R6
+Z53 8C:/Users/LE Hieu/Desktop/electronique 4/TP ASICS/Projet Asic/transserie.vhd
+Z54 FC:/Users/LE Hieu/Desktop/electronique 4/TP ASICS/Projet Asic/transserie.vhd
+l0
+L5
+V?KLL_e94GTLdWAH<LZSjd3
+!s100 a;88cF9hA4eWUZaLg6Y@]3
+R9
+32
+R42
+!i10b 1
+R43
+Z55 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/LE Hieu/Desktop/electronique 4/TP ASICS/Projet Asic/transserie.vhd|
+Z56 !s107 C:/Users/LE Hieu/Desktop/electronique 4/TP ASICS/Projet Asic/transserie.vhd|
+!i113 1
+R17
+R14
+Adflow
+R3
+R4
+R5
+R46
+l27
+L11
+VK1z;7A`>oA;^dS6cPbNkM1
+!s100 mY]nK[QoH2CV[0gJ<MLWk1
+R9
+32
+R42
+!i10b 1
+R43
+R55
+R56
+!i113 1
+R17
+R14
+Euasync
+Z57 w1557004235
+R3
+R1
+R2
+R4
+R5
+R6
+Z58 8C:/Users/LE Hieu/Desktop/electronique 4/TP ASICS/Projet Asic/uasync.vhd
+Z59 FC:/Users/LE Hieu/Desktop/electronique 4/TP ASICS/Projet Asic/uasync.vhd
+l0
+L4
+V12;LXGkaZko;MNS=m9H3M3
+!s100 a_[[WM:7<SbUfOiA5?:9L3
+R9
+32
+R21
+!i10b 1
+R22
+Z60 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/LE Hieu/Desktop/electronique 4/TP ASICS/Projet Asic/uasync.vhd|
+Z61 !s107 C:/Users/LE Hieu/Desktop/electronique 4/TP ASICS/Projet Asic/uasync.vhd|
+!i113 1
+R17
+R14
+Abeh
+R25
+R46
+R16
+R3
+R1
+R2
+R4
+R5
+DEx4 work 6 uasync 0 22 12;LXGkaZko;MNS=m9H3M3
+l51
+L13
+V5?UUKSUEAV?9EZ:@]bBBU0
+!s100 GmhR3T9MKXZJ`XzEzL=m62
+R9
+32
+!s110 1557240571
+!i10b 1
+R22
+R60
+R61
+!i113 1
+R17
+R14
